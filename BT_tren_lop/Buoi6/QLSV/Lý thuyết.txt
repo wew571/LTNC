@@ -1,0 +1,34 @@
+
+--------LÝ THUYẾT-----
+19/09
+1. Các nguyên lý lập trình:
+- Lập trình mệnh lệnh: đưa ra câu lệnh để làm gì đó, máy tính sẽ làm việc theo một trình tự thuật toán cụ thể.
+- Lập trình hướng đối tượng: quan sát thế giới thực, nhiều đối tượng thì trừu tượng hóa r đóng gói hành vi bên trong; tập trung vào việc mô tả các đối tượng và các hành vi của chúng, giúp tổ chức mã nguồn tốt hơn và dễ bảo trì.  
+- Lập trình thủ tục:
+- Lập trình khai báo: muốn lấy loại thông tin, dữ liệu này, không cần biết thuật toán là gì
+* VÍ DỤ:
+Lập trình đường hình
++ Lập trình hàm (biểu thức lambar)/khai báo:  
+List<int> listSo = [6,8,5,7,8,3,1,2,4];
+List<int> chan = new List <int>();
+// Sử dụng LINQ
+List<int> le = new List <int>();
+chan = listSo.Where(s => s % 2 == 0).ToList(); //tôi muốn lấy các số chãn cho lập trình khai báo, bằng cách nào kh quan tâm
+// Tập hợp các dãy số, muốn tra về làm bình phương của chúng nó lên
+var result = listSo.Select(s => s*s);
+// Lập trình mệnh lệnh 
+for (int i = 0; i <listSo.Count; i++)
+{
+    if (listSo[i] % 2 == 0)
+    {
+        chan.Add(listSo[i]);
+    }
+}
+2. LINQ: using System.LINQ // đặt trên đầu code để gọi LINQ
+3. Query syntax: cú pháp truy vấn
+var result = from s in listSo
+             where s % 2 == 0
+             select s;
+4. Method syntax: cú pháp phương thức
+var result = listSo.Where(s => s % 2 == 0);
+

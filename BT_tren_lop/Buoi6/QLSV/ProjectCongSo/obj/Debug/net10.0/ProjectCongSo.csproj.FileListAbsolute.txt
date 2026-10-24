@@ -1,0 +1,15 @@
+D:\LTNC\ProjectCongSo\bin\Debug\net10.0\ProjectCongSo.exe
+D:\LTNC\ProjectCongSo\bin\Debug\net10.0\ProjectCongSo.deps.json
+D:\LTNC\ProjectCongSo\bin\Debug\net10.0\ProjectCongSo.runtimeconfig.json
+D:\LTNC\ProjectCongSo\bin\Debug\net10.0\ProjectCongSo.dll
+D:\LTNC\ProjectCongSo\bin\Debug\net10.0\ProjectCongSo.pdb
+D:\LTNC\ProjectCongSo\obj\Debug\net10.0\ProjectCongSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTNC\ProjectCongSo\obj\Debug\net10.0\ProjectCongSo.AssemblyInfoInputs.cache
+D:\LTNC\ProjectCongSo\obj\Debug\net10.0\ProjectCongSo.AssemblyInfo.cs
+D:\LTNC\ProjectCongSo\obj\Debug\net10.0\ProjectCongSo.csproj.CoreCompileInputs.cache
+D:\LTNC\ProjectCongSo\obj\Debug\net10.0\ProjectCongSo.dll
+D:\LTNC\ProjectCongSo\obj\Debug\net10.0\refint\ProjectCongSo.dll
+D:\LTNC\ProjectCongSo\obj\Debug\net10.0\ProjectCongSo.pdb
+D:\LTNC\ProjectCongSo\obj\Debug\net10.0\ProjectCongSo.genruntimeconfig.cache
+D:\LTNC\ProjectCongSo\obj\Debug\net10.0\ref\ProjectCongSo.dll
+D:\LTNC\ProjectCongSo\obj\Debug\net10.0\ProjectCongSo.sourcelink.json
